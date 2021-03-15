@@ -53,6 +53,7 @@ public class Application {
 
 	@Bean
 	public UserConfig userConfig() {
+
 		return new UserConfig();
 	}
 
